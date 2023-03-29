@@ -45,7 +45,7 @@ docker-compose exec web python manage.py createsuperuser
 ## :page_with_curl: Проектная документация:
 Документация для API доступна по адресу
 ```
-http://127.0.0.1:8000/redoc/
+http://localhost/redoc/
 ```
 
 ## :office_worker: Об авторах: 
