@@ -1,7 +1,7 @@
 from reviews.models import Category, Genre, GenreTitle, Title
 from django.contrib import admin
 
-admin.register(Title)
-admin.register(Genre)
-admin.register(Category)
-admin.register(GenreTitle)
+admin.site.register(Title)
+admin.site.register(Genre)
+admin.site.register(Category)
+admin.site.register(GenreTitle)
